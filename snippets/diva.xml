@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+    <remote name="ka"
+	    revision="arrpw-13.0"
+	    fetch="https://github.com/kavencat" />
+	
     <remote name="diva"
 	    revision="TDA"
 	    fetch="https://github.com/Diva-Room" />
@@ -10,7 +14,7 @@
     <project path="kernel/xiaomi/violet" name="Miku_kernel_xiaomi_violet" remote="diva" />
     <project path="vendor/xiaomi/violet" name="Miku_vendor_xiaomi_violet" remote="diva" />
     <project path="device/xiaomi/wayne" name="Miku_device_xiaomi_wayne" remote="diva" />
-    <project path="kernel/xiaomi/wayne" name="Miku_kernel_xiaomi_wayne" remote="diva" />
+    <project path="kernel/xiaomi/wayne" name="android_kernel_xiaomi_wayne-4.19" remote="ka" />
     <project path="vendor/xiaomi/wayne" name="Miku_vendor_xiaomi_wayne" remote="diva" />
 
     <!-- Community Devices -->
