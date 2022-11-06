@@ -2,7 +2,7 @@
 <manifest>
 
     <remote name="ka"
-	    revision="arrpw-13.0"
+	    revision="arrow-13.0"
 	    fetch="https://github.com/kavencat" />
 	
     <remote name="diva"
