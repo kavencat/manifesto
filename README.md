@@ -2,7 +2,7 @@
 
 # Miku UI TDA
 
-![MikuUI](https://github.com/Miku-UI/manifesto/raw/TDA/img/MikuUI.png)
+![MikuUI](https://github.com/kavencat/manifesto/raw/TDA/img/MikuUI.png)
 
 Miku UI is an AOSP-Based Project focus on Performance and ... 
 
