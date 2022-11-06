@@ -1,4 +1,4 @@
-[**中文版**](https://github.com/Miku-UI/manifesto/blob/TDA/READMECN.md)
+[**中文版**](https://github.com/kavencat/manifesto/blob/TDA/READMECN.md)
 
 # Miku UI TDA
 
@@ -19,7 +19,7 @@ Sync Sourcecode
 
 
 ```shell
-repo init -u https://github.com/Miku-UI/manifesto -b TDA
+repo init -u https://github.com/kavencat/manifesto -b TDA
 ```
 
 
