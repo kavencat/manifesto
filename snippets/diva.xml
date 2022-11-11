@@ -16,6 +16,7 @@
     <project path="device/xiaomi/wayne" name="Miku_device_xiaomi_wayne" remote="diva" />
     <project path="kernel/xiaomi/wayne" name="android_kernel_xiaomi_wayne-4.19" remote="ka" />
     <project path="vendor/xiaomi/wayne" name="Miku_vendor_xiaomi_wayne" remote="diva" />
+    <project path="manifest" name="manifesto" revision="TDA" remote="ka" />
 
     <!-- Community Devices -->
     <project path="device/essential/mata" name="Miku_device_essential_mata" remote="diva" />
